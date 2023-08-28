@@ -40,23 +40,23 @@
   "education": [
     {
       "institution": "Université de Bordeaux", 
-      "url": "",
+      "_url": "",
       "area": "Physics",
       "studyType": "Licence (Bsc.) in Physics",
       "startDate": "2022-09-01",
       "endDate": "2025-06-01",
-      "score": "",
-      "courses": [
+      "score": "171/200",
+      "_courses": [
         "Theory of Relativity"
       ]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Research Internship for Academic Excellence",
+      "date": "2023-03-01",
+      "awarder": "Université de Bordeaux",
+      "summary": "Paid internship awarded for academic excellence by the bachelors degree department."
     }
   ],
   "certificates": [],
