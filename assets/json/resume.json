@@ -41,7 +41,7 @@
       "institution": "Université de Bordeaux", 
       "url": "",
       "area": "Physics",
-      "studyType": "Licence (Bsc.)",
+      "studyType": "Licence (Bsc.) in Physics",
       "startDate": "2022-09-01",
       "endDate": "2025-06-01",
       "score": "",
@@ -63,12 +63,16 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker"
+      "language": "English",
+      "fluency": "Bilingual"
     },
     {
-      "language": "English",
-      "fluency": "Fluent"
+      "language": "French",
+      "fluency": "Bilingual"
+    },
+    {
+      "language": "Mandarin Chinese",
+      "fluency": "Working proficiency"
     }
   ],
   "interests": [],
