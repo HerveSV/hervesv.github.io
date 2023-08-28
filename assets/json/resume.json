@@ -22,16 +22,17 @@
       }
     ]
   },
-  "work experience": [
+  "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "Laboratoire Onde et Matière d'Aquitaine",
+      "position": "Theory Research Intern",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "startDate": "2023-06-19",
+      "endDate": "2023-07-19",
+      "summary": "Subject: Synchronisation of two weakly coupled Van der Pol oscillators",
       "highlights": [
-        "Relativity"
+        "Non-linear dynamic",
+        "Perturbation theory"
       ]
     }
   ],
