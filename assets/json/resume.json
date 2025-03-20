@@ -7,7 +7,7 @@
     "phone": "(33) 07 69 35 25 88",
     "url": "https://hervesv.github.io",
     "summary": "",
-    "location": {
+    "_location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
       "city": "San Francisco",
@@ -24,7 +24,7 @@
   },
   "work": [
     {
-      "name": "Laboratoire Onde et Matière d'Aquitaine",
+      "name": "Laboratoire Onde et Matière d'Aquitaine, Condensed Matter Theory",
       "position": "Theory Research Intern",
       "url": "https://example.com",
       "startDate": "2023-06-19",
@@ -53,7 +53,7 @@
   ],
   "awards": [
     {
-      "title": "Research Internship for Academic Excellence",
+      "title": "Research Internship for Academic Excellence (Stage d'excellence)",
       "date": "2023-03-01",
       "awarder": "Université de Bordeaux",
       "summary": "Paid internship awarded for academic excellence by the bachelors degree department."
